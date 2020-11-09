@@ -1,0 +1,27 @@
+body{
+
+	background-color: red;
+	background-image: url(back.jpg);
+  background-size: 100%;
+	background-repeat: no-repeat;
+
+}
+
+p.ad{
+	color:white;
+	background-color: green;
+	font-family: arial;
+	font-size: 16pt;
+  width: 21%
+
+}
+
+a{
+	color:white;
+	background-color: black;
+}
+a:hover{
+	color: black;
+	background-color: white;
+
+}
